@@ -2,10 +2,11 @@
 title: "Health Tweets Analysis"
 author: "Yihun Zeleke"
 date: '`r Sys.Date()`'
-output: github_document
-  
-editor_options: 
-  chunk_output_type: console
+output:
+  github_document:
+    toc: true
+    toc_depth: 4
+   
 ---
 
 ```{r setup, include=FALSE}
@@ -16,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE,
 ```
 
 
-## Project idea:
+## Project idea
 There are different health tweets from different news agencies. This health tweets from bbc, cbc,and many more. This data is publicly available on  [Health-New-Tweets.zip](https://archive.ics.uci.edu/ml/machine-learning-databases/00438/) file.
 
 ![Health Tweets](MedicalTwitter1.jpg)    

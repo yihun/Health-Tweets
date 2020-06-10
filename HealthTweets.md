@@ -3,7 +3,20 @@ Health Tweets Analysis
 Yihun Zeleke
 2020-06-10
 
-## Project idea:
+  - [Project idea](#project-idea)
+  - [Data pre-processing](#data-pre-processing)
+      - [Pre-processing text](#pre-processing-text)
+      - [Words in newsgroups](#words-in-newsgroups)
+          - [Finding tf-idf within
+            newsgroup](#finding-tf-idf-within-newsgroup)
+  - [Topic Modeling](#topic-modeling)
+  - [Sentiment Analysis](#sentiment-analysis)
+      - [Sentiment analysis by word](#sentiment-analysis-by-word)
+      - [N-gram analysis](#n-gram-analysis)
+  - [Comparing word usage](#comparing-word-usage)
+  - [Changes in word use](#changes-in-word-use)
+
+## Project idea
 
 There are different health tweets from different news agencies. This
 health tweets from bbc, cbc,and many more. This data is publicly
