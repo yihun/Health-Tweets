@@ -1,7 +1,7 @@
 Health Tweets Analysis
 ================
 Yihun Zeleke
-2020-06-08
+2020-06-10
 
 ## Project idea:
 
@@ -735,7 +735,7 @@ top_slopes
     FALSE 15 reuters_~ nurse <tib~ time~ -0.00840  0.00177      -4.75 2.07e- 6
     FALSE # ... with 1 more variable: adjusted.p.value <dbl>
 
-Let’s plot the above words use for both New York times and Reutors
+Let’s plot the above words use for both New York times and Reuters
 Health tweets over year of tweets.
 
 ``` r
